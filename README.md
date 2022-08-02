@@ -1,7 +1,4 @@
-# Parallel Letter Frequency
-
-Welcome to Parallel Letter Frequency on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/parallel-letter-frequency
 
 ## Instructions
 
